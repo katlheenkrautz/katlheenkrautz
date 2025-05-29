@@ -14,13 +14,13 @@
 
 ## 🧠 Skills & Tools
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Informational?style=flat&logo=googlechrome)
-![SQL](https://img.shields.io/badge/SQL-Informational?style=flat&logo=postgresql)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4C4C4C?style=flat&logo=googlechrome&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium)
+![Selenium](https://img.shields.io/badge/Selenium-0E4C1F?style=flat&logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-6DB33F?style=flat)
+![Pytest](https://img.shields.io/badge/Pytest-6DB33F?style=flat&logo=python&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
