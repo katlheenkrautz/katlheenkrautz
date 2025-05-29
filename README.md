@@ -20,7 +20,6 @@
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-3B3B98?style=flat)
 ![Web Testing](https://img.shields.io/badge/Web%20Testing-1E90FF?style=flat&logo=googlechrome&logoColor=white)
 ![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-009688?style=flat&logo=android&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white)
 ![API Automation](https://img.shields.io/badge/API%20Automation-5C2D91?style=flat)
 ![UI Automation](https://img.shields.io/badge/UI%20Automation-8E24AA?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-Informational?style=flat&logo=postgresql)
@@ -38,7 +37,7 @@
 ## 🌍 Languages
 
 ![Spanish](https://img.shields.io/badge/Spanish-Native-green)
-![English](https://img.shields.io/badge/English-B2-blue)
+![English](https://img.shields.io/badge/English-B2%20%E2%80%93%20Conversational%20fluency%20%7C%20Strong%20listening%20%26%20writing%20skills-blue)
 
 ---
 ## 📫 Contact Me
