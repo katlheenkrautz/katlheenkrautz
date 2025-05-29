@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Skills & Tools
+## 🧠🛠️ Skills & Tools
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4C4C4C?style=flat&logo=googlechrome&logoColor=white)
 ![Agile Testing](https://img.shields.io/badge/Agile%20Testing-2E7D32?style=flat&logo=scrumalliance&logoColor=white)
