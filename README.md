@@ -8,7 +8,7 @@
 
 💬 Ask me about: software testing, QA methodologies, test cases, and collaborative workflows.
 
-📫 How to reach me: **katkrautz@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/katlheenk)
+📫 How to reach me:
+🔗 [LinkedIn]:(https://www.linkedin.com/in/katlheenk)
  
 ⚡ Fun fact: My background is in Biomedical Engineering—now I apply that same analytical mindset to software quality!
