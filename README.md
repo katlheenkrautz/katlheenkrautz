@@ -12,3 +12,23 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/katlheenk)
  
 ⚡ Fun fact: My background is in Biomedical Engineering—now I apply that same analytical mindset to software quality!
+
+## 🛠️ Skills & Tools
+
+**Manual Testing**            ▓▓▓▓▓▓▓▓▓░ 90%  
+**Functional/Regression/Usability Testing** ▓▓▓▓▓▓▓▓▓░ 90%  
+**SQL**                       ▓▓▓▓▓▓▓▓░░ 85%  
+**Postman (API testing)**     ▓▓▓▓▓▓▓░░░ 75%  
+**JIRA**                      ▓▓▓▓▓▓▓▓▓░ 90%  
+**Selenium WebDriver**        ▓▓▓▓▓░░░░░ 50%  
+**Python + Pytest**           ▓▓▓░░░░░░ 35%  
+**Cypress**                   ▓▓▓▓░░░░░░ 50%  
+**Git/GitHub**                ▓▓▓░░░░░░ 30%  
+**Android Studio**            ▓▓▓▓▓░░░░░ 50%
+
+---
+
+## 🌍 Languages
+
+**Spanish**: Native 🇨🇴  
+**English**: B2 – Conversational fluency, strong listening and technical reading 📘
