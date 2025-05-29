@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Katlheen Krautz
 
-<!--
-**katlheenkrautz/katlheenkrautz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as a QA Engineer at **Lone Wolf Technologies**, performing manual testing for web and mobile applications, API testing with Postman, SQL validation, and bug tracking with JIRA.
 
-Here are some ideas to get you started:
+🌱 I’ve recently completed several QA projects during my training at **TripleTen**, where I explored UI testing, API validation, and began learning test automation with Python, Pytest, and Selenium WebDriver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on QA-related projects where I can contribute with manual and automated testing, bug analysis, and team communication.
+
+💬 Ask me about: software testing, QA methodologies, test cases, and collaborative workflows.
+
+📫 How to reach me: **katkrautz@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/katlheenk)
+ 
+⚡ Fun fact: My background is in Biomedical Engineering—now I apply that same analytical mindset to software quality!
