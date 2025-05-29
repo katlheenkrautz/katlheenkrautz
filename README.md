@@ -15,6 +15,14 @@
 ## 🧠 Skills & Tools
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4C4C4C?style=flat&logo=googlechrome&logoColor=white)
+![Agile Testing](https://img.shields.io/badge/Agile%20Testing-2E7D32?style=flat&logo=scrumalliance&logoColor=white)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-FFB400?style=flat&logo=checkmarx&logoColor=white)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-3B3B98?style=flat)
+![Web Testing](https://img.shields.io/badge/Web%20Testing-1E90FF?style=flat&logo=googlechrome&logoColor=white)
+![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-009688?style=flat&logo=android&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white)
+![API Automation](https://img.shields.io/badge/API%20Automation-5C2D91?style=flat)
+![UI Automation](https://img.shields.io/badge/UI%20Automation-8E24AA?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-Informational?style=flat&logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
