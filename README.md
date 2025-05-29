@@ -13,18 +13,19 @@
  
 ⚡ Fun fact: My background is in Biomedical Engineering—now I apply that same analytical mindset to software quality!
 
-## 🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
-**Manual Testing**            ▓▓▓▓▓▓▓▓▓░ 90%  
-**Functional/Regression/Usability Testing** ▓▓▓▓▓▓▓▓▓░ 90%  
-**SQL**                       ▓▓▓▓▓▓▓▓░░ 85%  
-**Postman (API testing)**     ▓▓▓▓▓▓▓░░░ 75%  
-**JIRA**                      ▓▓▓▓▓▓▓▓▓░ 90%  
-**Selenium WebDriver**        ▓▓▓▓▓░░░░░ 50%  
-**Python + Pytest**           ▓▓▓░░░░░░ 35%  
-**Cypress**                   ▓▓▓▓░░░░░░ 50%  
-**Git/GitHub**                ▓▓▓░░░░░░ 30%  
-**Android Studio**            ▓▓▓▓▓░░░░░ 50%
+- **Manual Testing** – Advanced  
+- **Functional / Regression / Usability Testing** – Advanced  
+- **SQL** – Advanced  
+- **Postman (API Testing)** – Intermediate  
+- **JIRA** – Advanced  
+- **Selenium WebDriver** – Intermediate  
+- **Python + Pytest** – Basic  
+- **Cypress** – Intermediate  
+- **Android Studio** – Intermediate  
+- **Git / GitHub** – Basic  
+- **HTML / CSS** – Basic  
 
 ---
 
