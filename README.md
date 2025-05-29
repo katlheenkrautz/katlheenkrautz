@@ -15,7 +15,7 @@
 ## 🧠 Skills & Tools
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4C4C4C?style=flat&logo=googlechrome&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Informational?style=flat&logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-0E4C1F?style=flat&logo=selenium&logoColor=white)
