@@ -1,13 +1,17 @@
 ### Hi there 👋 I'm Katlheen Krautz
 
-🔭 I’m currently working as a QA Engineer at **Lone Wolf Technologies**, performing manual testing for web and mobile applications, API testing with Postman, SQL validation, and bug tracking with JIRA.
+💼 I have 2 years of experience as a QA Engineer, working at Lone Wolf Technologies, where I focused on manual testing for web and mobile applications, API testing with Postman, SQL data validation, and bug tracking using JIRA.
 
-🌱 I’ve recently completed several QA projects during my training at **TripleTen**, where I explored UI testing, API validation, and began learning test automation with Python, Pytest, and Selenium WebDriver.
+🌱 I’ve recently completed several QA projects during my training at **TripleTen**, where I deepened my experience in UI testing, API validation, and test automation using Python, Pytest, and Selenium WebDriver.
 
-👯 I’m looking to collaborate on QA-related projects where I can contribute with manual and automated testing, bug analysis, and team communication.
+🚀 **New!** I’ve added two automation projects to my portfolio:
+- 🧪 [API Automation Testing Project](https://github.com/katlheenkrautz/apiautomation): Automated testing for user and kit creation using Pytest and the `requests` library. Includes positive/negative test cases, token-based authentication, and dynamic payloads.
+- 🌐 [Web App UI Automation Project](https://github.com/katlheenkrautz/AutomationWebAppTest): Automated end-to-end testing of a ride-request web application using Selenium WebDriver and Page Object Model (POM). Covers real-user scenarios including form input, modal handling, and UI validation.
 
-💬 Ask me about: software testing, QA methodologies, test cases, and collaborative workflows.
- 
+👯 I’m looking to collaborate on QA-related projects where I can contribute through manual and automated testing, test design, bug analysis, and cross-team communication.
+
+💬 Ask me about: software testing, QA methodologies, test case design, and agile team workflows.
+
 ⚡ Fun fact: My background is in Biomedical Engineering—now I apply that same analytical mindset to software quality!
 
 ---
@@ -40,6 +44,8 @@
 ![English](https://img.shields.io/badge/English-B2%20%E2%80%93%20Conversational%20fluency%20%7C%20Strong%20listening%20%26%20writing%20skills-blue)
 
 ---
+
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katlheenk/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/katlheenkrautz)
